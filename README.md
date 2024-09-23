@@ -5,8 +5,6 @@
 - PHP Kullanılarak Yönetim Paneli geliştirildi sitenin tüm alanları Yönetilebilir oldu...
 (Arayüz / Tasarım / Panel)<br>
 <img src="https://i.hizliresim.com/cveezzt.png" width="60%"><br>
-(Yönetim Paneli)<br>
-<img src="https://i.hizliresim.com/hnx3f7h.jpg" width="60%">
 
 
 ## Kullanılan Teknolojiler
